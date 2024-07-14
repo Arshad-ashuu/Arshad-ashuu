@@ -12,7 +12,7 @@
     <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
   <a href="https://github.com/Arshad-ashuu">
-    <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=Blank-09&style=for-the-badge"/>
+    <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=Arshad-ashuu&style=for-the-badge"/>
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 ## 📊 GitHub Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arshad-ashuu&show_icons=true&locale=en&count_private=true&hide_border=true" alt="blank-09" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arshad-ashuu&show_icons=true&locale=en&count_private=true&hide_border=true" alt="Arshad-ashuu" />
 
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Arshad-ashuu&hide_border=true" />
 
