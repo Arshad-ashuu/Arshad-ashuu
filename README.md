@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Priyanshu T</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Arshad</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;I%20💙%20Community;Programming%20Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Developer%20from%20India;&center=true&width=570&height=45" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/priyanshu-t">
+  <a href="https://linkedin.com/in/mohammad-arshad-b47b60294">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://blank-09.github.io/">
+  <a href="https://arshad-dev.vercel.app">
     <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
-  <a href="https://github.com/blank-09">
+  <a href="https://github.com/Arshad-ashuu">
     <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=Blank-09&style=for-the-badge"/>
   </a>
 </p>
@@ -20,13 +20,13 @@
 
 ## 💫 **About Me:**
 
-- 🏫 I'm studying in SKCET College, India.
+- 🏫 I'm studying in Bhavans vivekananda College, India.
 
-- 🎓 I'm in B.Tech IT 2nd year.
+- 🎓 I'm in BCA 3rd year.
 
 - 🌱 I’m currently learning to make **Full Stack Projects ;)**
 
-- 📫 How to reach me [**priyanshu9943@gmail.com**](mailto:priyanshu9943@gmail.com)
+- 📫 How to reach me [**mohammadarshad01474@gmail.com**](mailto:mohammadarshad01474@gmail.com)
 
 ---
 
@@ -83,8 +83,8 @@
 
 ## 📊 GitHub Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=blank-09&show_icons=true&locale=en&count_private=true&hide_border=true" alt="blank-09" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arshad-ashuu&show_icons=true&locale=en&count_private=true&hide_border=true" alt="blank-09" />
 
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=blank-09&hide_border=true" />
+<img src ="https://github-readme-streak-stats.herokuapp.com/?user=Arshad-ashuu&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blank-09&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-ashuu&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
