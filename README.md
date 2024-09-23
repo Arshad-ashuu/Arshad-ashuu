@@ -81,6 +81,9 @@
 
 ---
 
+[![An image of @arshadashuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadashuu)](https://holopin.io/@arshadashuu)
+
+---
 ## 📊 GitHub Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arshad-ashuu&show_icons=true&locale=en&count_private=true&hide_border=true" alt="Arshad-ashuu" />
