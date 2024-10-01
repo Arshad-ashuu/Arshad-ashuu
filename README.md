@@ -94,5 +94,6 @@
 
 ---
 ![visitor](https://visitcount.itsvg.in/api?id=Arshad-ashuu&label=Profile%440Views&color=0&icon=0&pretty=false)
-
+<a href="https://linkedin.com/in/mohammad-arshad-b47b60294">
 ![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
+</a>
