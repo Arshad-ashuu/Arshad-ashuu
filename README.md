@@ -93,6 +93,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-ashuu&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ---
-![visitor](https://visitcount.itsvg.in/api?id=Arshad-ashuu&label=Profile%40Views&color=0&icon=0&pretty=false)
+![visitor](https://visitcount.itsvg.in/api?id=Arshad-ashuu&label=Profile%440Views&color=0&icon=0&pretty=false)
 
 ![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
