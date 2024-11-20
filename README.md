@@ -83,17 +83,7 @@
 
 [![An image of @arshadashuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadashuu)](https://holopin.io/@arshadashuu)
 
----
-## 📊 GitHub Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arshad-ashuu&show_icons=true&locale=en&count_private=true&hide_border=true" alt="Arshad-ashuu" />
 
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=Arshad-ashuu&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-ashuu&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
----
-![visitor](https://visitcount.itsvg.in/api?id=Arshad-ashuu&label=Profile%440Views&color=0&icon=0&pretty=true)
-<a href="https://github.com/Arshad-ashuu">
-![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
-</a>
