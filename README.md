@@ -61,6 +61,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="30"/>
 </div>
 
 ### 🗄️ Databases & ORM
