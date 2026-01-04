@@ -1,52 +1,85 @@
-<h1 align="center">Hi 👋, I'm Mohammad Arshad</h1>
+<h1 align="center">Hey 👋 I'm Mohammad Arshad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;I%20💙%20Community;Programming%20Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Developer%20from%20India;&center=true&width=570&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer+%7C+DevOps+Learner;Building+Things+That+Actually+Work;Docker%2C+Linux%2C+CI%2FCD+In+Progress;Open+Source+%26+Community+Driven;&center=true&width=650&height=45" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammad-arshad-b47b60294">
-    <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://arshad-dev.vercel.app">
-    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Arshad-ashuu">
-    <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=Arshad-ashuu&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=Arshad-ashuu&style=for-the-badge"/>
   </a>
 </p>
 
-![Rainbow Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## 💫 **About Me:**
-
-- 🏫 I'm studying in Bhavans vivekananda College, India.
-
-- 🎓 I'm in BCA 3rd year.
-
-- 🌱 I’m currently learning to make **Full Stack Projects ;)**
-
-- 📫 How to reach me [**mohammadarshad01474@gmail.com**](mailto:mohammadarshad01474@gmail.com)
-
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://discord.com/users/arshad0110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-    <a  href="https://www.github.com/Arshad-ashuu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> &nbsp;&nbsp;
-    <a href="http://www.instagram.com/mr_arshadn14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mohammad-arshad-b47b60294/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp;
-    <a href="https://twitter.com/Arshad_1_0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>&nbsp;&nbsp;
 
+## 🚀 About Me
+
+- 🎓 **BCA Final Year** @ Bhavan’s Vivekananda College, India  
+- 💻 **Developer transitioning into DevOps**
+- 🛠️ I enjoy breaking things → fixing them → automating them
+- 🌱 Currently learning **Docker, Linux, Jenkins, CI/CD & Cloud basics**
+- 🧠 Motto: *If it works, understand it. Then automate it.*
+- 📫 Reach me at **mohammadarshad01474@gmail.com**
 
 ---
 
-## 💻 **Tech Stack and Tools:**
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/ReactNative-222222?logo=gsap&logoColor=white" height="32" alt="react native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"></div>
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://discord.com/users/arshad0110">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Arshad-ashuu">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mr_arshadn14">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-arshad-b47b60294/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Arshad_1_0">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32"/>
+  </a>
+</p>
 
 ---
 
-[![An image of @arshadashuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadashuu)](https://holopin.io/@arshadashuu)
+## 🧰 Tech Stack & Tools
 
+### 💻 Development
+<img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="30"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" height="30"/>
 
+### 🗄️ Databases & ORM
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="30"/>
 
+### ⚙️ DevOps / Tools (Learning & Using)
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="30"/>
 
+---
 
+## 🏆 Achievements & Badges
+
+[![Holopin](https://holopin.me/arshadashuu)](https://holopin.io/@arshadashuu)
+
+---
+
+⭐ *Always learning. Always building. Slowly getting production-ready.*
