@@ -20,11 +20,10 @@
 
 ## 🚀 About Me
 
-- 🎓 **BCA Final Year** @ Bhavan’s Vivekananda College, India  
-- 💻 **Developer transitioning into DevOps**
-- 🛠️ I enjoy breaking things → fixing them → automating them
-- 🌱 Currently learning **Docker, Linux, Jenkins, CI/CD & Cloud basics**
-- 🧠 Motto: *If it works, understand it. Then automate it.*
+- 🎓 BCA Graduate
+- 💻 Interested in DevOps, AI agents, and scalable systems
+- 🛠️ Exploring Docker • Linux • CI/CD • Cloud
+- 🧠 Build useful things. Automate the rest
 - 📫 Reach me at **mohammadarshad01474@gmail.com**
 
 ---
