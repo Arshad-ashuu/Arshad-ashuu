@@ -1,91 +1,89 @@
-<h1 align="center">Hey 👋 I'm Mohammad Arshad</h1>
+<h1 align="center">Mohammad Arshad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer+%7C+DevOps+Learner;Building+Things+That+Actually+Work;Docker%2C+Linux%2C+CI%2FCD+In+Progress;Open+Source+%26+Community+Driven;&center=true&width=650&height=45" />
+  <b>Cloud Solution Architect @ Microsoft</b><br>
+  AI Apps & Agents • Azure AI • GitHub Copilot • Terraform • Automation
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammad-arshad-b47b60294">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://arshad-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Arshad-ashuu">
-    <img src="https://komarev.com/ghpvc/?username=Arshad-ashuu&style=for-the-badge"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=0078D4&center=true&vCenter=true&width=850&lines=Cloud+Solution+Architect;Building+AI+Apps+and+Agents;Azure+AI+Foundry+%7C+GitHub+Copilot;Terraform+%7C+Bicep+%7C+Automation;Learningng
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 BCA Graduate
-- 💻 Interested in DevOps, AI agents, and scalable systems
-- 🛠️ Exploring Docker • Linux • CI/CD • Cloud
-- 🧠 Build useful things. Automate the rest
-- 📫 Reach me at **mohammadarshad01474@gmail.com**
+I'm a Cloud Solution Architect at Microsoft focused on helping organizations build and modernize cloud-native and AI-powered solutions.
+
+My current interests include:
+
+- AI Apps & Agents
+- Azure AI Foundry
+- GitHub Copilot
+- Agentic DevOps
+- Terraform & Bicep
+- PowerShell Automation
+- RAG Applications
+- Multi-Agent Systems
 
 ---
 
-## 🤝 Connect With Me
+## Certifications
 
-<p align="left">
-  <a href="https://discord.com/users/arshad0110">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Arshad-ashuu">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/mr_arshadn14">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammad-arshad-b47b60294/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/Arshad_1_0">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32"/>
-  </a>
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-901)
+- Microsoft Certified: Azure Business Fundamentals (AB-900)
+- GitHub Copilot for Developers Intermediate Accredited
+
+---
+
+## Technologies
+
+### Cloud & AI
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-o=microsoftazure&logoColor=white
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=whitepilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=whitere & Automation
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=whiteps://img.shields.io/badge/Bicep-0078D4?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShellyle=for-the-badge&logo=powershell&logoColor=white)
+![Dockerhields.io/badge/Docker-2496ED?styleadge&logo=docker&logoColor=white
+
+### Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python=white
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+s://img.shields.io/badge/Node.js-e=for-the-badge&logo=node.js&logoColor=white
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arshad-ashuutokyonight&hide_border=true
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-eme=tokyonight&hide_border=true
 </p>
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Current Focus
 
-### 💻 Development
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="30"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="30"/>
-</div>
-
-### 🗄️ Databases & ORM
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="30"/>
-</div>
-
-### ⚙️ DevOps / Tools
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="30"/>
-</div>
----
-
-## 🏆 Achievements & Badges
-
-[![Holopin](https://holopin.me/arshadashuu)](https://holopin.io/@arshadashuu)
+- AI Engineering
+- Agentic Systems
+- Azure Architecture
+- Developer Productivity with AI
+- Open Source Contributions
+- Cloud Automation
 
 ---
 
-⭐ *Always learning. Always building. Slowly getting production-ready.*
+## Connect
+
+- LinkedIn: linkedin.com/in/mohammad-arshad-b47b60294
+- Portfolio: arshad-dev.vercel.app
+- GitHub: github.com/Arshad-ashuu
+
+---
+
+<p align="center">
+  <i>Building practical solutions with Cloud, AI and Automation.</i>
+</p>
