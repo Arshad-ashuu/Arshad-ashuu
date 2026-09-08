@@ -1,89 +1,88 @@
-<h1 align="center">Mohammad Arshad</h1>
+# Hi, I'm Mohammad Arshad 👋
 
-<p align="center">
-  <b>Cloud Solution Architect @ Microsoft</b><br>
-  AI Apps & Agents • Azure AI • GitHub Copilot • Terraform • Automation
-</p>
+### Cloud Solution Architect | AI & Cloud Enthusiast | Builder
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=0078D4&center=true&vCenter=true&width=850&lines=Cloud+Solution+Architect;Building+AI+Apps+and+Agents;Azure+AI+Foundry+%7C+GitHub+Copilot;Terraform+%7C+Bicep+%7C+Automation;Learningng
-</p>
+I help organizations adopt cloud, AI, and developer productivity solutions.
+
+Currently working at Microsoft, focused on helping customers design, build, and modernize applications using Azure, AI, automation, and DevOps practices.
 
 ---
 
-## About
-
-I'm a Cloud Solution Architect at Microsoft focused on helping organizations build and modernize cloud-native and AI-powered solutions.
-
-My current interests include:
+## 🚀 What I'm Working On
 
 - AI Apps & Agents
 - Azure AI Foundry
 - GitHub Copilot
 - Agentic DevOps
 - Terraform & Bicep
-- PowerShell Automation
-- RAG Applications
-- Multi-Agent Systems
+- Azure Cloud Architecture
+- Automation & PowerShell
+- Infrastructure as Code (IaC)
 
 ---
 
-## Certifications
+## 💼 About Me
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure AI Fundamentals (AI-901)
-- Microsoft Certified: Azure Business Fundamentals (AB-900)
+- Cloud Solution Architect at Microsoft
+- Based in Pune, India
+- BCA Graduate
+- Microsoft Certified:
+  - AZ-900
+  - AI-901
+  - AB-900
 - GitHub Copilot for Developers Intermediate Accredited
+- Passionate about AI, cloud platforms, automation, and developer productivity
 
 ---
 
-## Technologies
+## 🛠️ Core Technologies
 
 ### Cloud & AI
+Azure • Azure AI Foundry • Azure AI Search • GitHub Copilot
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-o=microsoftazure&logoColor=white
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=whitepilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=whitere & Automation
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=whiteps://img.shields.io/badge/Bicep-0078D4?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShellyle=for-the-badge&logo=powershell&logoColor=white)
-![Dockerhields.io/badge/Docker-2496ED?styleadge&logo=docker&logoColor=white
+### Infrastructure & DevOps
+Terraform • Bicep • Docker • Linux • GitHub Actions • CI/CD
 
 ### Development
+Python • JavaScript • TypeScript • Node.js • React
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python=white
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-s://img.shields.io/badge/Node.js-e=for-the-badge&logo=node.js&logoColor=white
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arshad-ashuutokyonight&hide_border=true
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-eme=tokyonight&hide_border=true
-</p>
+### Automation
+PowerShell • Azure Automation • Infrastructure as Code
 
 ---
 
-## Current Focus
+## 🔭 Current Interests
 
+- Multi-Agent Systems
 - AI Engineering
-- Agentic Systems
-- Azure Architecture
+- RAG Applications
+- Agentic DevOps
+- Cloud Native Architectures
+- Platform Engineering
 - Developer Productivity with AI
-- Open Source Contributions
-- Cloud Automation
 
 ---
 
-## Connect
+## 🌱 Open Source & Community
 
-- LinkedIn: linkedin.com/in/mohammad-arshad-b47b60294
-- Portfolio: arshad-dev.vercel.app
+I enjoy contributing to documentation, enablement content,
+GitHub repositories, automation projects, and technical learning initiatives.
+
+Always interested in collaborating on:
+- AI projects
+- Azure solutions
+- Developer tools
+- Automation initiatives
+- Open-source contributions
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/mohammad-arshad-b47b60294
 - GitHub: github.com/Arshad-ashuu
+- Portfolio: arshad-dev.vercel.app
 
 ---
 
-<p align="center">
-  <i>Building practical solutions with Cloud, AI and Automation.</i>
-</p>
+> Building practical solutions with Cloud, AI, and Automation.
